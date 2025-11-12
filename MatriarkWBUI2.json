@@ -47,7 +47,7 @@
           "layout": 1,
           "buttontext": "<RichColor Color=\"0,1,0,1\">Quick Tips</>",
           "title1": "<RichColor Color=\"0,1,0,1\">Quick Tips</>",
-          "text1": "...Coming Soon",
+          "text1": "<RichColor Color=\"1,1,1,1\">...Coming Soon!</>\n<RichColor Color=\"0.5,0.5,0.5,1\">────────────</>",
           "imageurl": ""
         }
       }

@@ -16,9 +16,9 @@
       {
         "tab1": {
           "layout": 1,
-          "buttontext": "Welcome!",
-          "title1": "<RichColor Color=\"1,0.2,0.6,1\">About Matriark!</>",
-          "text1": "Welcome to <RichColor Color=\"1,0.2,0.6,1\">Matriark</> - a <RichColor Color=\"0,0.6,1,1\">Community of Mature Survivors</>.\n\nThis is a stable, long-term 8 map cluster with crossplay-safe mods and plugins that enhance gameplay for adult lives.\n\nThe founder, <RichColor Color=\"1,0.2,0.6,1\">JustSimply_JJ</>, has hosted Ark maps since 2021 and self-hosts Matriark solo — keeping the servers <RichColor Color=\"0,1,0,1\">maintained, updated, and running smoothly</>.\n\nMany of the players you’ll meet here have been part of this Community for a long time.\n\n<RichColor Color=\"0,1,1,1\">On Matriark you can explore, build, and survive with like-minded adults who value respect, consideration, and zero toxicity.</>\n\n<RichColor Color=\"1,0.3,0.7,1\">We hope you enjoy your time with us.</>\n<RichColor Color=\"0.5,0.5,0.5,1\">────────────</>\n<RichColor Color=\"0,1,1,1\">HAPPY ARKING!</>",
+          "buttontext": "Welcome",
+          "title1": "<RichColor Color=\"1,0.2,0.6,1\">About Matriark</>",
+          "text1": "Welcome to <RichColor Color=\"1,0.2,0.6,1\">Matriark</> - a <RichColor Color=\"0,0.6,1,1\">Community of Mature Survivors</>.\n\nThis is a stable, long-term 8 map cluster with crossplay-safe mods and plugins that enhance gameplay for Adult Players.\n\nThe founder, <RichColor Color=\"1,0.2,0.6,1\">JustSimply_JJ</>, has hosted Ark maps since 2021 and self-hosts Matriark solo —\n<RichColor Color=\"0,1,0,1\">keeping the servers maintained, updated, and running smoothly</>.\n\nMany of the players you’ll meet here have been part of this Community for a long time.\n\n<RichColor Color=\"0,1,1,1\">On Matriark you can explore, build, and survive with like-minded adults who value respect, consideration, and zero toxicity.</>\n\n<RichColor Color=\"1,0.3,0.7,1\">We hope you enjoy your time with us.</>\n<RichColor Color=\"0.5,0.5,0.5,1\">────────────</>\n<RichColor Color=\"0,1,1,1\">HAPPY ARKING!</>",
           "imageurl": ""
         }
       },
@@ -26,8 +26,8 @@
         "tab2": {
           "layout": 1,
           "buttontext": "Rules",
-          "title1": "Matriark Cluster Rules",
-          "text1": "Respect the Community — don’t be an ass. On Matriark, kindness and consideration are key at all times.\n<RichColor Color=\"0.5,0.5,0.5,1\">────────────</>\n\n1. Be a mature, respectful adult, no exceptions.\nNo toxicity, harassment, or drama in chat, Discord, or anywhere on the Cluster.\n\n2. No inappropriate names and no \"human\" characters in game.\nApplies to any language, final call is JJs.\n\n3. No replacements or handouts.\nLost tames or items from normal gameplay or Wildcard bugs will not be replaced.\n\n4. No repeated complaints.\nCluster chat is not tech support for Wildcard or Mod issues.\n\n5. Be mindful where you build.\nDo not build near others or close to public structures.\nBase limits per map:\n• A main base\n• An outpost, public trap, or treehouse\n• A water pen for raising and storing water tames\n\n6. Breeding & wandering limits.\nDo not leave tames on breed or wander.\nMax 2 snails + 2 dung beetles (neutered).\n\n7. No blocking.\nDo not block major resources, explorer notes, artifact caves, or public-use areas.\n\n8. Max 30 tames out while offline.\nNo tames on neutral, aggressive, or flee — no mess.\n\n9. Turrets.\n• Set to Wilds Only\n• Medium or Low range\n• Turret damage ×50\n• ORP active\n\n10. Structure pickup is ON.\nClean up after yourself. No spamming.\n\n11. Cloning chambers.\nMax 1 per tribe, per map.\n\n12. Choose Tribe members wisely.\nOngoing rule-breaks by members may result in your whole Tribe being wiped & banned.\n\n13. Ocean Platform Limit.\nMax of 4 large squares, or any mix of others equal to that size.\n<RichColor Color=\"0.5,0.5,0.5,1\">────────────</>\n\nDon’t like my rules? No problem — best of luck finding a Cluster that fits your needs.",
+          "title1": "<RichColor Color=\"1,0.2,0.6,1\">Matriark Cluster Rules</>",
+          "text1": "<RichColor Color=\"0,1,0,1\">Respect the Community — don’t be an ass. On Matriark, kindness and consideration are key at all times.</>\n<RichColor Color=\"0.5,0.5,0.5,1\">────────────</>\n\n<RichColor Color=\"1,1,0,1\">1.</> Be a mature, respectful adult, no exceptions.\nNo toxicity, harassment, or drama in chat, Discord, or anywhere on the Cluster.\n\n<RichColor Color=\"0,0.6,1,1\">2.</> No inappropriate names and no \"human\" characters in game.\nApplies to any language, final call is JJs.\n\n<RichColor Color=\"1,1,0,1\">3.</> No replacements or handouts.\nLost tames or items from normal gameplay or Wildcard bugs will not be replaced.\n\n<RichColor Color=\"0,0.6,1,1\">4.</> No repeated complaints.\nCluster chat is not tech support for Wildcard or Mod issues.\n\n<RichColor Color=\"1,1,0,1\">5.</> Be mindful where you build.\nDo not build near others or close to public structures.\nBase limits per map:\n- A main base\n- An outpost, public trap, or treehouse\n- A water pen for raising and storing water tames\n\n<RichColor Color=\"0,0.6,1,1\">6.</> Breeding & wandering limits.\nDo not leave tames on breed or wander.\nMax 2 snails + 2 dung beetles (neutered).\n\n<RichColor Color=\"1,1,0,1\">7.</> No blocking.\nDo not block major resources, explorer notes, artifact caves, or public-use areas.\n\n<RichColor Color=\"0,0.6,1,1\">8.</> Max 30 tames out while offline.\nNo tames on neutral, aggressive, or flee — no mess.\n\n<RichColor Color=\"1,1,0,1\">9.</> Turrets.\n- Set to Wilds Only\n- Medium or Low range\n- Turret damage ×50\n- ORP active\n\n<RichColor Color=\"0,0.6,1,1\">10.</> Structure pickup is ON.\nClean up after yourself. No spamming.\n\n<RichColor Color=\"1,1,0,1\">11.</> Cloning chambers.\nMax 1 per tribe, per map.\n\n<RichColor Color=\"0,0.6,1,1\">12.</> Choose Tribe members wisely.\nOngoing rule-breaks by members may result in your whole Tribe being wiped & banned.\n\n<RichColor Color=\"1,1,0,1\">13.</> Ocean Platform Limit.\nMax of 4 large squares, or any mix of others equal to that size.\n<RichColor Color=\"0.5,0.5,0.5,1\">────────────</>\n\nDon’t like my rules? No problem — best of luck finding a Cluster that fits your needs.",
           "imageurl": ""
         }
       },
@@ -36,9 +36,9 @@
           "layout": 3,
           "buttontext": "Matriark Details",
           "title1": "<RichColor Color=\"1,0.2,0.6,1\">Matriark Details</>",
-          "text1": "<RichColor Color=\"1,1,1,1\">Maps</>\n<RichColor Color=\"0.5,0.5,0.5,1\">────────────</>\n\n• Ragnarok\n• Valguero\n• The Island\n• Scorched Earth\n• Aberration\n• Extinction\n• The Center\n• Astraeos (Custom Map)",
-          "text2": "<RichColor Color=\"1,1,1,1\">Mods</>\n<RichColor Color=\"0.5,0.5,0.5,1\">────────────</>\n\n• Utilities Plus\n• Explorer Notes Tracker\n• Cliffans Backpacks\n• Net Pro\n• Awesome Spyglass!\n• Paleo ARK: Ascension\n• Paleo ARK: Evolution | Apex Predators\n• Paleo ARK: Evolution | Dangerous Depths\n• Paleo ARK EVO+ | Native Aquatics\n• Additions Ascended: Brachiosaurus\n• Additions Ascended: Edmontonia\n• Myrm’s Custom Creations: Draconis Glaucus\n• Cyrus’ Critters: Magna Gecko\n• Moro’s Hydrovanta\n• Ascended Better Dinos\n• Shiny! Dinos Ascended\n• Isle of Myths: Skyshroud Drakara\n• Runic Wyverns (Tame on Center)\n• Cybers Structures QoL+\n• Arkitect Structures Remastered (ASR)\n• Klinger Additional Rustic Building\n• Castles, Keeps & Forts (CKF Free + Premium)\n• Alfa Oceanic Platforms\n• Super Cryo Storage\n• Potions | Gaia Studios (Shop & Supply Crates)\n• Dino Colouring Potion | Gaia Studios\n• Der Dino Finder\n• Marni’s Realistic Hair Mod",
-          "text3": "<RichColor Color=\"1,1,1,1\">Settings</>\n<RichColor Color=\"0.5,0.5,0.5,1\">────────────</>\n\n• Wild Dino Max Level: 210\n• Wyvern Max Level: 266\n• Tek Creature Max Level: 252\n• Harvesting: ×3\n• Taming: ×10\n• XP Gain: ×2\n• Breeding: Accelerated\n• Maturation: Balanced\n• ORP: Active on all maps\n• Structure Pickup: Enabled\n• Cluster Transfers: Enabled\n• Crossplay: Supported",
+          "text1": "<RichColor Color=\"1,1,1,1\">Mods</>\n<RichColor Color=\"0.5,0.5,0.5,1\">────────────</>\n\n- Utilities Plus\n- Explorer Notes Tracker\n- Cliffans Backpacks\n- Net Pro\n- Awesome Spyglass!\n- Paleo ARK: Ascension\n- Paleo ARK: Evolution | Apex Predators\n- Paleo ARK: Evolution | Dangerous Depths\n- Paleo ARK EVO+ | Native Aquatics\n- Additions Ascended: Brachiosaurus\n- Additions Ascended: Edmontonia\n- Myrm’s Custom Creations: Draconis Glaucus\n- Cyrus’ Critters: Magna Gecko\n- Moro’s Hydrovanta\n- Ascended Better Dinos\n- Shiny! Dinos Ascended\n- Isle of Myths: Skyshroud Drakara\n- Runic Wyverns (Tame on Center)\n- Cybers Structures QoL+\n- Arkitect Structures Remastered (ASR)\n- Klinger Additional Rustic Building\n- Castles, Keeps & Forts (CKF Free + Premium)\n- Alfa Oceanic Platforms\n- Super Cryo Storage\n- Potions | Gaia Studios (Shop & Supply Crates)\n- Dino Colouring Potion | Gaia Studios\n- Der Dino Finder\n- Marni’s Realistic Hair Mod",
+          "text2": "<RichColor Color=\"1,1,1,1\">Settings</>\n<RichColor Color=\"0.5,0.5,0.5,1\">────────────</>\n\n- Wild Dino Max Level: 210\n- Wyvern Max Level: 266\n- Tek Creature Max Level: 252\n- Harvesting: ×3\n- Taming: ×10\n- XP Gain: ×2\n- Breeding: Accelerated\n- Maturation: Balanced\n- ORP: Active on all maps\n- Structure Pickup: Enabled\n- Cluster Transfers: Enabled\n- Crossplay: Supported",
+          "text3": "<RichColor Color=\"1,1,1,1\">Maps</>\n<RichColor Color=\"0.5,0.5,0.5,1\">────────────</>\n\n- Ragnarok\n- Valguero\n- The Island\n- Scorched Earth\n- Aberration\n- Extinction\n- The Center\n- Astraeos (Custom Map)",
           "imageurl": ""
         }
       },
@@ -55,13 +55,13 @@
     "links": [
       {
         "link1": {
-          "text": "Join Discord - MWsgHrRt83",
+          "text": "<RichColor Color=\"1,0.2,0.6,1\">Join Discord - MWsgHrRt83</>",
           "url": "https://discord.gg/MWsgHrRt83"
         }
       },
       {
         "link2": {
-          "text": "Donate (PayPal)",
+          "text": "<RichColor Color=\"0,1,0,1\">Donate (PayPal)</>",
           "url": "https://www.paypal.com/paypalme/AvatarPVECluster?country.x=CA&locale.x=en_US"
         }
       }

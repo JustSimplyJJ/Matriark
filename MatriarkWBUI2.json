@@ -1,0 +1,41 @@
+{
+  "WBUI2": {
+    "settings": {
+      "OpenButton": 0,
+      "HideIcon": false,
+      "HideIconAfter": 10,
+      "IconURL": "https://imgur.com/a/bjGuH9c.png",
+      "DisableIconText": false,
+      "IconPosition": 0,
+      "IconTextColor": 0,
+      "OpenOnStart": true,
+      "OpenOnStartOnlyNewPlayers": true,
+      "UpdateInterval": 12
+    },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "Rules",
+          "title1": "Matriark Cluster Rules",
+          "text1": "👉 Respect the community — don't be an ass. Kindness and consideration are expected at all times.\n\n1) Act like an adult.\nBe mature and respectful in all chats and on Discord. Keep it drama-free; harassment and toxicity aren't tolerated.\n\n2) Keep names appropriate.\nAvoid inappropriate or \"Human\" character names; this applies to all languages. Final call rests with JJ.\n\n3) Play fair.\nLost tames or items from normal gameplay or Wildcard bugs are not replaced.\nMutated or boss-level tames should not be gifted to new players — respect game progression.\n\n4) Keep it constructive.\nReport issues once; repeated complaints or rants clutter the cluster.\n\n5) Build with awareness.\nGive others space and stay clear of public structures.\nBase limits per map:\n- 1 main base\n- 1 outpost / trap / treehouse\n- 1 water pen for raising or storing water tames\n\n6) Manage breeders responsibly.\nDo not leave creatures on breed or wander.\nLimit: 2 snails + 2 dung beetles (neutered).\n\n7) Protect shared areas.\nLeave resources, explorer notes, artifact caves, and public-use areas accessible.\n\n8) Limit offline clutter.\nKeep a max of 30 tames out while offline.\nSet behavior so they don't cause chaos while you're gone.\n\n9) Turret etiquette.\n- Wilds Only\n- Medium or Low range\n- x50 damage\n- ORP active\n\n10) Clean as you go.\nStructure pickup is ON — use it. Keep builds tidy and avoid spam.\n\n11) Cloning chambers.\nMax 1 cloning chamber per tribe, per map.\n\n12) Choose tribe members wisely.\nYou are responsible for your tribe. Ongoing rule-breaking can result in a full tribe wipe and ban.\n\n13) Ocean platforms.\nMax of 4 large squares, or any combination equal to that footprint.",
+          "imageurl": ""
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Discord Invite Code - MWsgHrRt83",
+          "url": "https://discord.gg/MWsgHrRt83"
+        }
+      },
+      {
+        "link2": {
+          "text": "Donate (PayPal)",
+          "url": "https://www.paypal.com/paypalme/AvatarPVECluster?country.x=CA&locale.x=en_US"
+        }
+      }
+    ]
+  }
+}

@@ -16,9 +16,9 @@
       {
         "tab1": {
           "layout": 1,
-          "buttontext": "About Us",
-          "title1": "Welcome to Matriark!",
-          "text1": "We are a <RichColor Color=\"1,0.2,0.6,1\">Community of <RichColor Color=\"1,1,0,1\">Mature Survivors</></> seeking a stable, respectful, long-term Ark home with zero toxicity. We run balanced settings, crossplay-safe mods, and plugins that enhance gameplay without breaking the experience.\n\n<RichColor Color=\"1,0.2,0.6,1\">JustSimply_JJ</> founded Matriark and has hosted Ark maps since 2021. She self-hosts this cluster solo — keeping maps maintained, updated, and running smoothly.\n\nMany early players are still with us — a testament to the friendships, fairness, and good vibes that define Matriark.\n\n<RichColor Color=\"0,1,1,1\">Explore, tame, and build with like-minded adults.</>\n<RichColor Color=\"1,0.2,0.6,1\">Happy Arking!</>",
+          "buttontext": "Welcome!",
+          "title1": "About Matriark!",
+          "text1": "Welcome to <RichColor Color=\"1,0.2,0.6,1\">Matriark</> - a <RichColor Color=\"1,0.95,0.6,1\">Community of Mature Survivors</>.\n\nThis is a stable, long-term 8 map cluster with crossplay-safe mods and plugins that enhance gameplay for adult lives.\n\nThe founder, <RichColor Color=\"1,0.2,0.6,1\">JustSimply_JJ</>, has hosted Ark maps since 2021 and self-hosts Matriark solo — keeping the servers <RichColor Color=\"0.3,1,0.3,1\">maintained, updated, and running smoothly</>.\n\nMany of the players you’ll meet here have been part of this Community for a long time.\n\n<RichColor Color=\"0,1,1,1\">On Matriark you can explore, build, and survive with like-minded adults who value respect, consideration, and zero toxicity.</>\n<RichColor Color=\"1,0.3,0.7,1\">We hope you enjoy your time with us.</>\n<RichColor Color=\"0.5,0.5,0.5,1\">────────────</>\n<RichColor Color=\"0,1,1,1\">HAPPY ARKING!</>",
           "imageurl": ""
         }
       },
@@ -27,25 +27,27 @@
           "layout": 1,
           "buttontext": "Rules",
           "title1": "Matriark Cluster Rules",
-          "text1": "👉 Respect the community — don't be an ass. Kindness and consideration are expected at all times.\n\n1) Act like an adult.\nBe mature and respectful in all chats and on Discord. Keep it drama-free; harassment and toxicity aren't tolerated.\n\n2) Keep names appropriate.\nAvoid inappropriate or \"Human\" character names; this applies to all languages. Final call rests with JJ.\n\n3) Play fair.\nLost tames or items from normal gameplay or Wildcard bugs are not replaced.\nMutated or boss-level tames should not be gifted to new players — respect game progression.\n\n4) Keep it constructive.\nReport issues once; repeated complaints or rants clutter the cluster.\n\n5) Build with awareness.\nGive others space and stay clear of public structures.\nBase limits per map:\n- 1 main base\n- 1 outpost / trap / treehouse\n- 1 water pen for raising or storing water tames\n\n6) Manage breeders responsibly.\nDo not leave creatures on breed or wander.\nLimit: 2 snails + 2 dung beetles (neutered).\n\n7) Protect shared areas.\nLeave resources, explorer notes, artifact caves, and public-use areas accessible.\n\n8) Limit offline clutter.\nKeep a max of 30 tames out while offline.\nSet behavior so they don't cause chaos while you're gone.\n\n9) Turret etiquette.\n- Wilds Only\n- Medium or Low range\n- x50 damage\n- ORP active\n\n10) Clean as you go.\nStructure pickup is ON — use it. Keep builds tidy and avoid spam.\n\n11) Cloning chambers.\nMax 1 cloning chamber per tribe, per map.\n\n12) Choose tribe members wisely.\nYou are responsible for your tribe. Ongoing rule-breaking can result in a full tribe wipe and ban.\n\n13) Ocean platforms.\nMax of 4 large squares, or any combination equal to that footprint.",
+          "text1": "👉 Respect the Community, don’t be an ass. On Matriark Kindness and consideration are key at all times.\n<RichColor Color=\"0.5,0.5,0.5,1\">────────────</>\n\n1. Be a mature, respectful adult, no exceptions.\nNo toxicity, harassment, or drama in chat, Discord, or anywhere on the Cluster.\n\n2. No inappropriate names and no \"human\" characters in game.\nApplies to any language, final call is JJs.\n\n3. No replacements or handouts.\nLost tames or items from normal gameplay or Wildcard bugs will not be replaced.\n\n4. No repeated complaints.\nCluster chat is not tech support for Wildcard or Mod issues.\n\n5. Be mindful where you build.\nDo not build near others or close to public structures.\n🏡 Base limits per map:\n• A main base\n• An outpost, public trap, or treehouse\n• A water pen for raising and storing water tames\n\n6. Breeding & wandering limits.\nDo not leave tames on breed or wander.\nMax 2 snails + 2 dung beetles (neutered).\n\n7. No blocking.\nDo not block major resources, explorer notes, artifact caves, or public-use areas.\n\n8. Max 30 tames out while offline.\nNo tames on neutral, aggressive, or flee — no mess.\n\n9. Turrets.\n• Set to Wilds Only\n• Medium or Low range\n• Turret damage ×50\n• ORP active\n\n10. Structure pickup is ON.\nClean up after yourself. No spamming.\n\n11. Cloning chambers.\nMax 1 per tribe, per map.\n\n12. Choose Tribe members wisely.\nOngoing rule-breaks by members may result in your whole Tribe being wiped & banned.\n\n13. Ocean Platform Limit.\nMax of 4 large squares, or any mix of others equal to that size.\n<RichColor Color=\"0.5,0.5,0.5,1\">────────────</>\n\n❌ Don’t like my rules? No problem — best of luck finding a Cluster that fits your needs. 👋🏼",
           "imageurl": ""
         }
       },
       {
         "tab3": {
-          "layout": 1,
-          "buttontext": "Quick Tips",
-          "title1": "Quick Tips",
-          "text1": "• Read the <RichColor Color=\"1,0.2,0,1\">RULES</> at the <RichColor Color=\"0,1,1,1\">Matriark Hub & Rules</> teleporter.\n• Claim up to 3 starters via your radial menu (Shop).\n• Typical rates: Wild 210, Wyv 266, Tek 252, Harvest ×3, Taming ×10, 2×XP.\n• Need help? Use Discord — tickets get handled fastest.\n• Always logout in safe areas; ORP is active but not foolproof.\n\n<RichColor Color=\"0.7,0.7,0.7,1\">Use the buttons below for our Discord invite and donations.</>",
+          "layout": 3,
+          "buttontext": "Matriark Details!",
+          "title1": "",
+          "text1": "<RichColor Color=\"1,1,1,1\">📍 Maps</>\n<RichColor Color=\"0.5,0.5,0.5,1\">────────────</>\n\n• Ragnarok\n• Valguero\n• The Island\n• Scorched Earth\n• Aberration\n• Extinction\n• The Center\n• Astraeos (Custom Map)",
+          "text2": "<RichColor Color=\"1,1,1,1\">⚙️ Mods</>\n<RichColor Color=\"0.5,0.5,0.5,1\">────────────</>\n\n• Utilities Plus\n• Explorer Notes Tracker\n• Cliffans Backpacks\n• Net Pro\n• Awesome Spyglass!\n• Paleo ARK: Ascension\n• Paleo ARK: Evolution | Apex Predators\n• Paleo ARK: Evolution | Dangerous Depths\n• Paleo ARK EVO+ | Native Aquatics\n• Additions Ascended: Brachiosaurus\n• Additions Ascended: Edmontonia\n• Myrm’s Custom Creations: Draconis Glaucus\n• Cyrus’ Critters: Magna Gecko\n• Moro’s Hydrovanta\n• Ascended Better Dinos\n• Shiny! Dinos Ascended\n• Isle of Myths: Skyshroud Drakara\n• Runic Wyverns (Tame on Center)\n• Cybers Structures QoL+\n• Arkitect Structures Remastered (ASR)\n• Klinger Additional Rustic Building\n• Castles, Keeps & Forts (CKF Free + Premium)\n• Alfa Oceanic Platforms\n• Super Cryo Storage\n• Potions | Gaia Studios (Shop & Supply Crates)\n• Dino Colouring Potion | Gaia Studios\n• Der Dino Finder\n• Marni’s Realistic Hair Mod",
+          "text3": "<RichColor Color=\"1,1,1,1\">⚙️ Settings</>\n<RichColor Color=\"0.5,0.5,0.5,1\">────────────</>\n\n• Wild Dino Max Level: 210\n• Wyvern Max Level: 266\n• Tek Creature Max Level: 252\n• Harvesting: ×3\n• Taming: ×10\n• XP Gain: ×2\n• Breeding: Accelerated\n• Maturation: Balanced\n• ORP: Active on all maps\n• Structure Pickup: Enabled\n• Cluster Transfers: Enabled\n• Crossplay: Supported",
           "imageurl": ""
         }
       },
       {
         "tab4": {
           "layout": 1,
-          "buttontext": "Servers & Mods",
-          "title1": "Matriark Cluster Info",
-          "text1": "<RichColor Color=\"1,0.2,0.6,1\">Current Maps:</>\n- Ragnarok\n- Valguero\n- The Island\n- Scorched Earth\n- Extinction\n- Aberration\n- The Center\n- Astraeos (custom map)\n\n<RichColor Color=\"1,0.2,0.6,1\">Key Mods:</>\n• Paleo ARK (Core, Apex Predators, Dangerous Depths, EVO+ Aquatics)\n• Additions Ascended (Brachiosaurus, Edmontonia)\n• Awesome Spyglass\n• Utilities Plus\n• WBUI2\n• Der Dino Finder\n• Marni’s Realistic Hair\n• Cliffans Backpacks\n• Myrm’s Custom Creations: Draconis Glaucus\n• Moro’s Hydrovanta\n• Cyrus’ Critters: Magna Gecko\n• Omega Teleporters\n• Super Cryo Storage\n• Arkitect Structures Remastered\n• Castles, Keeps & Forts (CKF)\n• Klinger Rustic Building\n• Gaia Potions & Coloring\n\n<RichColor Color=\"1,1,0,1\">How to Join:</>\n1. Ensure crossplay mods are enabled.\n2. Search player servers for <RichColor Color=\"1,0.2,0.6,1\">Matriark-CDN</>.\n3. Join a map, register your tribe via Discord, and start your journey.\n\n<RichColor Color=\"0,1,1,1\">See Discord for full mod list and updates.</>",
+          "buttontext": "Quick Tips",
+          "title1": "Quick Tips",
+          "text1": "",
           "imageurl": ""
         }
       }
@@ -53,7 +55,7 @@
     "links": [
       {
         "link1": {
-          "text": "Join Discord",
+          "text": "Join Discord - MWsgHrRt83",
           "url": "https://discord.gg/MWsgHrRt83"
         }
       },

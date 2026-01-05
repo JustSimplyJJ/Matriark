@@ -10,7 +10,7 @@
       "IconTextColor": 0,
       "OpenOnStart": true,
       "OpenOnStartOnlyNewPlayers": true,
-      "UpdateInterval": 1
+      "UpdateInterval": 24
     },
     "tabs": [
       {
@@ -48,7 +48,7 @@
           "buttontext": "<RichColor Color=\"0,1,0,1\">Quick Tips</>",
           "title1": "",
           "text1": "Quick Tips\n\n - Awesome teleporters work as both teleporter and transmitter.\n- Tames keep their inventory in SCS cryopods, allowing easy transfer of Element and boss items between maps.\n-Plugins prevent stealing and griefing; unlock storage box for player trades.\n- The Matriark in-game shop is accessed via the radial menu and offers starter kits, potions, tames, and resources. Loonies are earned by playing only.\n- The Shiny! tracker is disabled. All Shiny! dinos are level 210 - use der dino finder via your inventory map tab to help locate them.\n- Lethal Decay is active, all structure tiers are 21 days & tames 14 days before decay when inactive.\n<RichColor Color=\"0.5,0.5,0.5,1\">────────────</>\n\n",
-          "text2": "Companion Whistle Dump (Workaround)\n\n- Empty your entire inventory into storage (gear, cosmetics, hotbar — leave only the whistles)\n- Travel to Aberration and spawn at the Matriark Hub spawn point.\n- Pull your implant (R2 on the implant)\n- Respawn again at the Matriark Hub spawn point.\n- Use the Awesome Teleporter or Transmitter to return to previous map.\n<RichColor Color=\"0.5,0.5,0.5,1\">────────────</>\n\n",
+          "text2": "Companion Whistle Dump (Workaround)\n\nStep 1: Empty your entire inventory into storage (gear, cosmetics, hotbar — leave only the whistles)\n\nStep 2: Travel to Aberration and spawn at the Matriark Hub spawn point.\n\nStep 3: Pull your implant (R2 on the implant)\n\nStep 4:Respawn again at the Matriark Hub spawn point.\n\nStep 5: Use the Awesome Teleporter or Transmitter to return to previous map.\n<RichColor Color=\"0.5,0.5,0.5,1\">────────────</>\n\n",
           "imageurl": ""
         }
       }

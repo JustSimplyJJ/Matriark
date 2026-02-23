@@ -3,13 +3,13 @@
     "settings": {
       "OpenButton": 0,
       "HideIcon": true,
-      "HideIconAfter": 60,
+      "HideIconAfter": 120,
       "IconURL": "https://i.imgur.com/Phobibq.png",
       "DisableIconText": false,
       "IconPosition": 3,
       "IconTextColor": 0,
       "OpenOnStart": true,
-      "OpenOnStartOnlyNewPlayers": true,
+      "OpenOnStartOnlyNewPlayers": false,
       "UpdateInterval": 24
     },
     "tabs": [

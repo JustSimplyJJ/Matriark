@@ -6,7 +6,7 @@
       "HideIconAfter": 120,
       "IconURL": "https://i.imgur.com/Phobibq.png",
       "DisableIconText": false,
-      "IconPosition": 3,
+      "IconPosition": 0,
       "IconTextColor": 0,
       "OpenOnStart": true,
       "OpenOnStartOnlyNewPlayers": true,
